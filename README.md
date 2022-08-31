@@ -47,3 +47,5 @@ Then you can run `make install` to deploy the Medical Diagnosis Validated Patter
 
 This validated pattern is still being developed.  More to come in the next few weeks. Any questions or concerns
 please contact [Jonny Rickard](jrickard@redhat.com) or [Lester Claudio](claudiol@redhat.com).
+
+:)
